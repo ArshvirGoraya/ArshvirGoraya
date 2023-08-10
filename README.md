@@ -3,7 +3,7 @@
 ## Arshvir Goraya
 ### I am a Game Developer
 
-I have multiple years of collaborative experience in Unity and Godot. I am skilled in C# and GDScript and even a little Rust. I'm comfortable with both OOP and ECS approaches to game development. I love collaborating in all aspects of game creation :D
+I have multiple years of collaborative experience in Unity and Godot. I am skilled in C#m GDScript and even a little Rust. I'm comfortable with both OOP and ECS approaches to game development. I love collaborating in all aspects of game creation :D
 
 #### Skills and Experience
 * C#
