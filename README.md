@@ -3,7 +3,7 @@
 ## Arshvir Goraya
 ### I am a Game Developer
 
-I have multiple years of collaborative experience in Unity and Godot. I am skilled in C#m GDScript and even a little Rust. I'm comfortable with both OOP and ECS approaches to game development. I love collaborating in all aspects of game creation :D
+I have multiple years of collaborative experience in Unity and Godot. I am skilled in C#, GDScript and even a little Rust. I'm comfortable with both OOP and ECS approaches to game development. I love collaborating in all aspects of game creation :D
 
 #### Skills and Experience
 * C#
@@ -15,7 +15,7 @@ I have multiple years of collaborative experience in Unity and Godot. I am skill
 ![sort_gif](https://github.com/ArshvirGoraya/ArshvirGoraya/assets/113562877/ec4647f3-c146-443e-95f6-9ffa2d9ae53e)
 
 
-- 🔭 I’m currently working on a 3D sorting visualizer. 
+- 🔭 I’m currently working on a **3D sorting visualizer**. 
 - 🌱 I’m currently learning Rust. 
 - 👯 I’m looking to collaborate on any game you want. 
 - 🤔 I’m looking for help with FINDING A JOB 
