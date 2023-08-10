@@ -1,3 +1,5 @@
+![Banner](https://github.com/ArshvirGoraya/ArshvirGoraya/assets/113562877/b38b05e0-03e2-43b4-b1dd-e0c2eabbd140)
+
 ## Arshvir Goraya
 ### I am a Game Developer
 
@@ -10,7 +12,7 @@ I have multiple years of collaborative experience in Unity and Godot. I am skill
 * JS / HTML / CSS
 
 #### Examples of Work
-<img src="" width="256" />
+![sort_gif](https://github.com/ArshvirGoraya/ArshvirGoraya/assets/113562877/ec4647f3-c146-443e-95f6-9ffa2d9ae53e)
 
 
 - 🔭 I’m currently working on a 3D sorting visualizer. 
