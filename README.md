@@ -5,6 +5,10 @@
 
 I have multiple years of collaborative experience in Unity and Godot. I am skilled in C#, GDScript and even a little Rust. I'm comfortable with both OOP and ECS approaches to game development. I love collaborating in all aspects of game creation :D
 
+Portfolio: https://arshvirgoraya.com
+
+Currently a game developer at [AI Arena](https://docs.aiarena.io/).
+
 #### Skills and Experience
 * C#
 * GDScript
@@ -15,12 +19,11 @@ I have multiple years of collaborative experience in Unity and Godot. I am skill
 ![sort_gif](https://github.com/ArshvirGoraya/ArshvirGoraya/assets/113562877/ec4647f3-c146-443e-95f6-9ffa2d9ae53e)
 
 
-- 🔭 I’m currently working on a **3D sorting visualizer**. 
-- 🌱 I’m currently learning Rust. 
+- 🔭 I’m currently working on a various projects that may never be complete but I'm having fun!!!
+- 🌱 I’m currently learning A LOT (e.g., Rust, Web Development Frameworks, Game Design and MORE).
 - 👯 I’m looking to collaborate on any game you want. 
-- 🤔 I’m looking for help with FINDING A JOB 
 - 📫 How to reach me: arshvirgoraya@outlook.com 
-- ⚡ Fun fact: I'm looking for a job :D 
+- ⚡ Fun fact: I have a B.A. in psychology!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arshvirgoraya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arshvirgoraya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/arshvirgoraya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arshvirgoraya.com)
 
