@@ -21,10 +21,10 @@ Portfolio & Resume: [https://arshvirgoraya.com](https://arshvirgoraya.com)
 - 📫 How to reach me: arshvirgoraya@outlook.com 
 - ⚡ Fun fact: I have a B.A. in psychology and I was a Game Developer for [Arena X Labs](https://www.arenaxlabs.com/)!
 
-[<img src='https://cdn.simpleicons.org/linkedin/lightblue' alt='linkedin' height='40'>](https://www.linkedin.com/in/arshvirgoraya/)
-[<img src='https://cdn.simpleicons.org/icloud/lightblue' alt='website' height='40'>](https://arshvirgoraya.com)
-[<img src='https://cdn.simpleicons.org/youtube/lightblue' alt='YouTube' height='40'>](https://www.youtube.com/channel/arshvirgoraya)
-[<img src='https://cdn.simpleicons.org/x/lightblue' alt='twitter' height='40'>](https://twitter.com/arshvirgoraya)
+[<img height='34' src='https://cdn.simpleicons.org/linkedin/black/white' alt='linkedin'>](https://www.linkedin.com/in/arshvirgoraya/)
+[<img height='34' src='https://cdn.simpleicons.org/icloud/black/white?viewbox=auto' alt='website'>](https://arshvirgoraya.com)
+[<img height='34' src='https://cdn.simpleicons.org/youtube/black/white?viewbox=auto' alt='YouTube'>](https://www.youtube.com/channel/arshvirgoraya)
+[<img height='34' src='https://cdn.simpleicons.org/x/black/white?viewbox=auto' alt='twitter'>](https://twitter.com/arshvirgoraya)
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArshvirGoraya) -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ArshvirG) -->
