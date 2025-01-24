@@ -1,7 +1,7 @@
 ## Arshvir Goraya
 ### Game Developer
 
-I have multiple years of collaborative experience in Unity and Godot. I am skilled in C#, GDScript, web development and even a little Rust. I'm comfortable with both OOP and ECS approaches to game development. I love collaborating in all aspects of game creation :D
+Love collaborating in all aspects of game creation :D
 
 Portfolio & Resume: [https://arshvirgoraya.com](https://arshvirgoraya.com)
 
@@ -9,11 +9,10 @@ Portfolio & Resume: [https://arshvirgoraya.com](https://arshvirgoraya.com)
 * C#
 * GDScript
 * RUST
-* JS / TS / HTML / CSS
+* JS / TS / HTML / CSS / REACT
 
 #### Examples of Work
-![sort_gif](https://github.com/ArshvirGoraya/ArshvirGoraya/assets/113562877/ec4647f3-c146-443e-95f6-9ffa2d9ae53e)
-
+![sort_gif](https://github.com/ArshvirGoraya/ArshvirGoraya/blob/main/.github/Images/sort_gif.gif)
 
 - 🔭 I’m currently working on a various projects that may never be complete but I'm having fun!!!
 - 🌱 I’m currently learning A LOT (e.g., Rust, Web Development Frameworks, Game Design and MORE).
