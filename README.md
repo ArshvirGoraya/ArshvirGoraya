@@ -20,7 +20,8 @@ Portfolio & Resume: [https://arshvirgoraya.com](https://arshvirgoraya.com)
 - 📫 How to reach me: arshvirgoraya@outlook.com 
 - ⚡ Fun fact: I have a B.A. in psychology and I was a Game Developer for [Arena X Labs](https://www.arenaxlabs.com/)!
 
-[<img height='34' src='https://cdn.simpleicons.org/linkedin/black/white' alt='linkedin'>](https://www.linkedin.com/in/arshvirgoraya/)
+<!-- [<img height='34' src='https://cdn.simpleicons.org/linkedin/black/white' alt='linkedin'>](https://www.linkedin.com/in/arshvirgoraya/) -->
+[<img height='34' src='https://raw.githubusercontent.com/ArshvirGoraya/ArshvirGoraya/df3f2a02fc2d65d6127bb7c3b76e745834612fd4/.github/Images/simple-icons--linkedin.svg' alt='linkedin'>](https://www.linkedin.com/in/arshvirgoraya/)
 [<img height='34' src='https://cdn.simpleicons.org/icloud/black/white?viewbox=auto' alt='website'>](https://arshvirgoraya.com)
 [<img height='34' src='https://cdn.simpleicons.org/youtube/black/white?viewbox=auto' alt='YouTube'>](https://www.youtube.com/channel/arshvirgoraya)
 [<img height='34' src='https://cdn.simpleicons.org/x/black/white?viewbox=auto' alt='twitter'>](https://twitter.com/arshvirgoraya)
