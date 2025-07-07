@@ -32,6 +32,6 @@ Portfolio & Resume: [https://arshvirgoraya.com](https://arshvirgoraya.com)
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.s![Uploading giuthub heart.svg…]()
 vg' alt='Reddit' height='40'>](https://www.reddit.com/user/arshvirgoraya) -->
 
-<a align="left" href='https://ko-fi.com/Z8Z6NP272' target='_blank'><img height='200ch' width='200ch' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.paypal.com/donate/?hosted_button_id=6898PNAVV5QRC' target='_blank'><img height='200ch' width='200ch' src='https://github.com/user-attachments/assets/0b96763f-b586-4abb-9d42-216aab7ccb20' alt='Donate at paypal.com' /></a>
-<a href='https://github.com/sponsors/ArshvirGoraya' target='_blank'><img height='200ch' width='200ch' src='https://github.com/user-attachments/assets/0e5debd6-531b-463a-a67a-e55e85102ddc'/></a>
+<a align="left" href='https://ko-fi.com/Z8Z6NP272' target='_blank'><img width='200ch' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.paypal.com/donate/?hosted_button_id=6898PNAVV5QRC' target='_blank'><img width='200ch' src='https://github.com/user-attachments/assets/0b96763f-b586-4abb-9d42-216aab7ccb20' alt='Donate at paypal.com' /></a>
+<a href='https://github.com/sponsors/ArshvirGoraya' target='_blank'><img width='200ch' src='https://github.com/user-attachments/assets/0e5debd6-531b-463a-a67a-e55e85102ddc'/></a>
