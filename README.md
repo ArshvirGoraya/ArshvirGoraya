@@ -12,7 +12,8 @@ Portfolio & Resume: [https://arshvirgoraya.com](https://arshvirgoraya.com)
 * JS / TS / HTML / CSS / REACT
 
 #### Examples of Work
-![sort_gif](https://github.com/ArshvirGoraya/ArshvirGoraya/blob/main/.github/Images/sort_gif.gif)
+[<img src='https://github.com/ArshvirGoraya/ArshvirGoraya/blob/main/.github/Images/sort_gif.gif' alt='3D Sorting Visualizer Showcase gif'>](https://github.com/ArshvirGoraya/3D-Sorting-Visualizer)
+
 
 - 🔭 I’m currently working on a various projects that may never be complete but I'm having fun!!!
 - 🌱 I’m currently learning A LOT (e.g., Rust, Web Development Frameworks, Game Design and MORE).
